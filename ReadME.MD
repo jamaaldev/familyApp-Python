@@ -3,4 +3,4 @@ this application is based on python with integrated sqlite3, this application is
 
 ![](https://github.com/jamaaldev/familyApp-Python/blob/ff1c2eec68f3193ccfc96998c5c692320b90fccf/Screenshot-family.png?raw=true?raw=trues=400)
 
-[FamilyApp Site]([[link](https://replit.com/@jamaalmahamed/FamilyApp)])
+[FamilyApp Check the Application](https://replit.com/@jamaalmahamed/FamilyApp)
